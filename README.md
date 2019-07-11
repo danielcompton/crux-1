@@ -89,6 +89,13 @@ For `crux-ispell-word-then-abbrev` to be most effective you'll also need to add 
 (setq-default abbrev-mode t)
 ```
 
+## More documentation
+
+Many of the functions in crux started life as blog posts on 
+[Emacs Redux](https://emacsredux.com). You can see a full list of blog 
+posts on functions in crux on the 
+[tags page](https://emacsredux.com/tags/#crux).
+
 ## Using the bundled advices
 
 crux ships with some handy advises that can enhance the operation of existing commands.
